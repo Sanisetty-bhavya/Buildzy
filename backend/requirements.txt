@@ -1,0 +1,5 @@
+# Python dependencies for Buildzy backend
+fastapi
+uvicorn
+pymongo
+python-dotenv
