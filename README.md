@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏗️ Buildzy
 
 > An AI-Powered Full-Stack Code Generator that turns your ideas into production-ready code
@@ -83,3 +84,6 @@ Born from countless hackathons and web projects, Buildzy eliminates the tedium o
 ## 🌟 Conclusion
 
 Buildzy streamlines development workflows with AI-powered code generation. Whether you're learning, prototyping, or building, it's your companion for faster, smarter coding. Let's build something amazing! 🚀
+=======
+# Buildzy
+>>>>>>> 84569acd18c5f5c9afba5eb5c2a5fb4107bdf88f
